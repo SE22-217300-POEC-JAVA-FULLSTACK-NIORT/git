@@ -1,5 +1,4 @@
 # TP : travail collaboratif avec Git et GitHub
-
 ---
 
 ## Objectifs du TP
